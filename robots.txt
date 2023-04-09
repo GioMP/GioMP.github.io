@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://giomp.github.io/main/sitemap.xml
+Sitemap: https://giomp.github.io/sitemap.xml
